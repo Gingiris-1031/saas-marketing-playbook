@@ -16,6 +16,6 @@ Stop guessing which marketing tools to buy. This playbook maps the right stack t
 - **Metrics framework**: North star metrics, leading indicators, and reporting cadence
 
 ## Related Gingiris Skills
-- Full version: https://clawhub.ai/skill/gingiris-b2b-growth
-- All skills: https://clawhub.ai/user/gingiris
+- Full version: https://clawhub.ai/gingiris-1031/skills/gingiris-b2b-growth
+- All skills: https://clawhub.ai/gingiris-1031
 - Follow: [@WeiYipei on X](https://x.com/WeiYipei)
